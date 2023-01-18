@@ -21,3 +21,7 @@ Either, you have to download in terminal using git clone
        
        
 By using this method you can use this system.
+
+
+![c_1](https://user-images.githubusercontent.com/74350077/213096471-eaa6845d-15b3-404c-bf99-9183807d4f33.png)
+![c_2](https://user-images.githubusercontent.com/74350077/213096477-0347310b-6234-459c-b369-a9f3465c18cb.png)
